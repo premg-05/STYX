@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 640" role="img" aria-labelledby="title">
+  <title>STYX</title>
+  <defs>
+    <linearGradient id="red" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#ed0825" />
+      <stop offset="1" stop-color="#d90020" />
+    </linearGradient>
+  </defs>
+  <rect width="640" height="640" fill="url(#red)"/>
+  <text x="320" y="355" text-anchor="middle" fill="#ffed27" font-family="Arial Black, Arial, Helvetica, sans-serif" font-size="128" font-weight="900" letter-spacing="10">STYX</text>
+</svg>
